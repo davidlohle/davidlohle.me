@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "David Lohle"
+theme = "coder"
+
+[params] # theme parameters
+    author = "David Lohle"
+    info = "DevOps, Tinkering, Knick-Knacks"
+    description = "David Lohle's personal website"
+    keywords = "blog,developer,personal"
+    
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/proplex/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/lohlrific/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/davidlohle/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
