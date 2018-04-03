@@ -1,0 +1,6 @@
+#Mac stuff
+.vscode
+.DS_Store
+
+#Hugo Stuff
+/public
