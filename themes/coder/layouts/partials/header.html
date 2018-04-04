@@ -1,7 +1,7 @@
 <nav class="navigation">
   <section class="container">
      {{if not .IsHome}} 
-        <a class="navigation-title" href="{{ absURL }}">
+        <a class="navigation-title" href="{{ "/" | absURL }}">
           {{ .Site.Title }}
         </a>
      {{end}}
