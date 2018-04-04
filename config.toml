@@ -1,4 +1,4 @@
-baseURL = "http://davidlohle.me"
+baseURL = "https://davidlohle.me"
 languageCode = "en-us"
 title = "David Lohle"
 theme = "coder"
