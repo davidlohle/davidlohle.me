@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "Hello, World"
 date: 2018-04-03T17:23:33-04:00
-draft: true
+draft: false
 ---
 
 
-This is a test
+Let's go Hugo, Hugo!
