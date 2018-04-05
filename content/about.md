@@ -16,16 +16,17 @@ Swift.
 
 ## Projects
 * [AlwaysOnlineRedux](https://github.com/iPwnAge/AlwaysOnlineRedux) - A Bungee proxy
-  plugin that caches user's information to cross reference when Mojang authentication
+  plugin that caches user information to cross reference when Mojang authentication
   servers go down.
 * [AutoDonorStatus](https://github.com/iPwnAge/AutoDonorStatus) - A Spigot/Bukkit plugin
-  that automatically promotes users that donate.
+  that automatically promotes users who donate.
 * [BungeeBetterJoinMessages](https://github.com/iPwnAge/BetterBungeeJoinMessages) - A
-  Bungee proxy plugin that broadcasts join messages when playesr log into a Spigot server.
+  Bungee proxy plugin that broadcasts join messages to all networked servers when players 
+  login.
 * [BetterFly](https://github.com/iPwnAge/BetterFly) - A Spigot/Bukkit plugin that enables
   users to fly with persistent state saving, and configuration options.
 * [BungeeAFK](https://github.com/iPwnAge/BungeeAFK) - A Bungee proxy plugin that tracks
-  users activity and broadcasts to all networked servers when players go AFK.
+  user activity and broadcasts to all networked servers when players go AFK.
 * [BungeeDeathMessages](https://github.com/iPwnAge/BungeeDeathMessages) - A Bungee proxy
   plugin that broadcasts player death messages to all networked servers
 * [Direwolf20 1.7.10 Hotfixes](https://github.com/iPwnAge/Direwolf20-1.7.10-Hotfixes) - A
@@ -36,7 +37,7 @@ Swift.
 * [SHIELD](https://github.com/starkandwayne/shield) - A data protection solution that
   schedules automatic backups for distributed, cloud-based services.
 * [SparkBot](https://github.com/Proplex/SparkBot) - A Python-based assistant used with
-  Teamspeak and IPBoard to announce server status & close off-topic discussions.
+  TeamSpeak and IPBoard to announce server status & close off-topic discussions.
 * [Vis](https://github.com/TheVindicators/Vis) - A Flask webapp that was created to aid in
   visualing antenna placements for Northrop Grumman Amherst Systems.
 * [YOURLS Tox Support](https://github.com/Proplex/YOURLS-Tox-Support) - A YOURLS plugin
@@ -61,7 +62,7 @@ _I've been approached by various NYC small businesses, groups, and people for:_
 * Web design - Ranging from CMS to online shopping and inventory availability.
   * Worked with Django, Drupal, Flask, Ghost, Hugo, Joomla, Node, WordPress and more.
 * Novel solutions - Finding low-cost answers for niche requests.
-  * Using old, cheap Android phones to track equipment location (among others).
+  * Ex: Using old, cheap Android phones to track equipment location (among others).
 * Phone systems - PBX setup and call routing.
   * Worked with Asterisk.
 * Tech support - Assisting diverse groups of people in helpdesk-tier support
