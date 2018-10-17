@@ -6,11 +6,12 @@ draft: false
 ---
 
 
-Hey there, I'm David Lohle; a programmer and systems administrator from NYC. I attend
-University at Buffalo, currently pursuing a B.S. in computer science. I'm a dedicated,
-hard-working student with a passion for software development and systems design. I have 7
-years of experience working in IT, and write software in Python, Golang, Java, C, C++, and
-Swift.
+Hey there, I'm David Lohle; a programmer and systems administrator
+from NYC. I attended University at Buffalo, where I pursued a B.S.
+degree in computer science. I'm a dedicated, hard-working individual
+with a passion for software development and systems design. I have 7
+years of experience working in IT, and write software in Python,
+Golang, Java, C, C++, and Swift.
 \
 \
 
@@ -28,10 +29,10 @@ Swift.
 * [BungeeAFK](https://github.com/iPwnAge/BungeeAFK) - A Bungee proxy plugin that tracks
   user activity and broadcasts to all networked servers when players go AFK.
 * [BungeeDeathMessages](https://github.com/iPwnAge/BungeeDeathMessages) - A Bungee proxy
-  plugin that broadcasts player death messages to all networked servers
+  plugin that broadcasts player death messages to all networked servers.
 * [Direwolf20 1.7.10 Hotfixes](https://github.com/iPwnAge/Direwolf20-1.7.10-Hotfixes) - A
   collection of scripts to fix bugs within DW20 that could not be fixed via original
-  source editing.
+  source editing (due to licensing, availability, etc).
 * [Plex Tracker](https://github.com/Proplex/plex-tracker) - A Flask webapp that lets Plex
   server owners track what's hosted, and allow users to request new content. 
 * [SHIELD](https://github.com/starkandwayne/shield) - A data protection solution that
@@ -47,33 +48,41 @@ Swift.
 
 _I run various online services, such as:_
 
-* File hosting - A temporary file host that allows for quick image and file sharing.
-* Minecraft multiplayer server - A voxel-based multiplayer game, built on the Spigot and
-  Bungee API.
-* OpenVPN server - A VPN protocol that excels in bridging clients into local networks.  
-* Starbound multiplayer server - Another adventure sandbox multiplayer game, running on
-  the developer-provided multiplayer software.
+* File hosting - A temporary file host that allows for quick image and
+  file sharing.
+* Minecraft multiplayer server - A voxel-based multiplayer game, built
+  on the Spigot and Bungee API.
+* OpenVPN server - A VPN protocol that excels in bridging clients into
+  local networks.  
+* Starbound multiplayer server - Another adventure sandbox multiplayer
+  game, running on the developer-provided multiplayer software.
 * TeamSpeak - A VoIP voice and IM chat server.
-* Terraria multiplayer server  - An adventure sandbox multiplayer game that's built on the
-  TShock API.
+* Terraria multiplayer server  - An adventure sandbox multiplayer game
+  that's built on the TShock API.
 
-_I've been approached by various NYC small businesses, groups, and people for:_
+_I've been approached by various NYC small businesses, groups, and
+people for:_
 
-* Web design - Ranging from CMS to online shopping and inventory availability.
-  * Worked with Django, Drupal, Flask, Ghost, Hugo, Joomla, Node, WordPress and more.
+* Web design - Ranging from CMS to online shopping and inventory
+  availability.
+  * Worked with Django, Drupal, Flask, Ghost, Hugo, Joomla, Node,
+    WordPress and more.
 * Novel solutions - Finding low-cost answers for niche requests.
-  * Ex: Using old, cheap Android phones to track equipment location (among others).
+  * Ex: Using old, cheap Android phones to track equipment location
+    (among others).
 * Phone systems - PBX setup and call routing.
   * Worked with Asterisk.
-* Tech support - Assisting diverse groups of people in helpdesk-tier support
-  * Worked with Android, ChromeOS, iOS, macOS, RHEL, tvOS, Windows, Ubuntu and much, much
-    more.
+* Tech support - Assisting diverse groups of people in helpdesk-tier
+  support
+  * Worked with Android, ChromeOS, iOS, macOS, RHEL, tvOS, Windows,
+    Ubuntu and much, much more.
 
 _I've worked with the following companies:_
 
 * Stark & Wayne (currently employed)
-  * Cloud Architect, working with various IaaS and cloud application platforms to build
-    and support large-scale apps. 
+  * Cloud Architect, working with various IaaS and cloud application
+    platforms to build and support large-scale apps. 
 * Northrop Grumman Amherst Systems
-  * Collaborated with Amherst Systems for a senior design project, creating a webapp that
-    allows for antenna placement and visualization.
+  * Collaborated with Amherst Systems for a senior design project,
+    creating a webapp that allows for antenna placement and
+    visualization.
