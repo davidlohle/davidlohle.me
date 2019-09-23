@@ -79,9 +79,15 @@ people for:_
 
 _I've worked with the following companies:_
 
-* Stark & Wayne (currently employed)
+* Pivotal (currently employed)
+  * Solutions Architect, traveling on-site perform both technical and
+    soft-skill enablement. Work primarily with Pivotal Platform in a
+    XP and Agile method.
+* Stark & Wayne
   * Cloud Architect, working with various IaaS and cloud application
-    platforms to build and support large-scale apps. 
+    platforms to build and support large-scale apps.
+  * Consult with various companies to design, build, and productize
+    their cloud.
 * Northrop Grumman Amherst Systems
   * Collaborated with Amherst Systems for a senior design project,
     creating a webapp that allows for antenna placement and
