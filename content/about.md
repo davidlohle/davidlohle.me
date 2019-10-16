@@ -66,7 +66,7 @@ people for:_
 * Web design - Ranging from CMS to online shopping and inventory
   availability.
   * Worked with Django, Drupal, Flask, Ghost, Hugo, Joomla, Node,
-    WordPress and more.
+    WordPress, and more.
 * Novel solutions - Finding low-cost answers for niche requests.
   * Ex: Using old, cheap Android phones to track equipment location
     (among others).
@@ -75,12 +75,12 @@ people for:_
 * Tech support - Assisting diverse groups of people in helpdesk-tier
   support
   * Worked with Android, ChromeOS, iOS, macOS, RHEL, tvOS, Windows,
-    Ubuntu and much, much more.
+    Ubuntu, and much, much more.
 
 _I've worked with the following companies:_
 
 * Pivotal (currently employed)
-  * Solutions Architect, traveling on-site perform both technical and
+  * Solutions Architect, traveling on-site to perform both technical and
     soft-skill enablement. Work primarily with Pivotal Platform in a
     XP and Agile method.
 * Stark & Wayne
@@ -90,5 +90,5 @@ _I've worked with the following companies:_
     their cloud.
 * Northrop Grumman Amherst Systems
   * Collaborated with Amherst Systems for a senior design project,
-    creating a webapp that allows for antenna placement and
+    creating a web app that allows for antenna placement and
     visualization.
