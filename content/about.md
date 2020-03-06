@@ -15,36 +15,28 @@ Golang, Java, C, C++, and Swift.
 \
 \
 
-## Projects
-* [AlwaysOnlineRedux](https://github.com/iPwnAge/AlwaysOnlineRedux) - A Bungee proxy
-  plugin that caches user information to cross reference when Mojang authentication
-  servers go down.
-* [AutoDonorStatus](https://github.com/iPwnAge/AutoDonorStatus) - A Spigot/Bukkit plugin
-  that automatically promotes users who donate.
-* [BungeeBetterJoinMessages](https://github.com/iPwnAge/BetterBungeeJoinMessages) - A
-  Bungee proxy plugin that broadcasts join messages to all networked servers when players 
-  login.
-* [BetterFly](https://github.com/iPwnAge/BetterFly) - A Spigot/Bukkit plugin that enables
-  users to fly with persistent state saving, and configuration options.
-* [BungeeAFK](https://github.com/iPwnAge/BungeeAFK) - A Bungee proxy plugin that tracks
-  user activity and broadcasts to all networked servers when players go AFK.
-* [BungeeDeathMessages](https://github.com/iPwnAge/BungeeDeathMessages) - A Bungee proxy
-  plugin that broadcasts player death messages to all networked servers.
-* [Direwolf20 1.7.10 Hotfixes](https://github.com/iPwnAge/Direwolf20-1.7.10-Hotfixes) - A
-  collection of scripts to fix bugs within DW20 that could not be fixed via original
-  source editing (due to licensing, availability, etc).
-* [Plex Tracker](https://github.com/Proplex/plex-tracker) - A Flask webapp that lets Plex
-  server owners track what's hosted, and allow users to request new content. 
-* [SHIELD](https://github.com/starkandwayne/shield) - A data protection solution that
-  schedules automatic backups for distributed, cloud-based services.
-* [SparkBot](https://github.com/Proplex/SparkBot) - A Python-based assistant used with
-  TeamSpeak and IPBoard to announce server status & close off-topic discussions.
-* [Vis](https://github.com/TheVindicators/Vis) - A Flask webapp that was created to aid in
-  visualing antenna placements for Northrop Grumman Amherst Systems.
-* [YOURLS Tox Support](https://github.com/Proplex/YOURLS-Tox-Support) - A YOURLS plugin
-  that allows Tox ID shortening
 
 ## Skills & Experience
+
+_I've worked with the following companies:_
+
+* Pivotal Software (now VMware) (currently employed)
+  * Solutions Architect, working with clients to deploy, upgrade, and scale
+    their cloud platforms (Cloud Foundry, Kubernetes, etc.). 
+  * Work with client engineers to enable them in Agile/Extreme Programming (XP)
+    methodologies.
+  * Strong focus on bootstrapping a "Platform as a Product" practice, teaching
+    clients how to engage their developers, understand their needs/wants, and
+    improve the platform through User-centered Design (UCD).
+* Stark & Wayne
+  * Cloud Architect, working with various IaaS and cloud application
+    platforms to build and support large-scale apps.
+  * Consult with various companies to design, build, and productize
+    their cloud.
+* Northrop Grumman Amherst Systems
+  * Collaborated with Amherst Systems for a senior design project,
+    creating a webapp that allows for antenna placement and
+    visualization.
 
 _I run various online services, such as:_
 
@@ -77,18 +69,34 @@ people for:_
   * Worked with Android, ChromeOS, iOS, macOS, RHEL, tvOS, Windows,
     Ubuntu and much, much more.
 
-_I've worked with the following companies:_
 
-* Pivotal (currently employed)
-  * Solutions Architect, traveling on-site perform both technical and
-    soft-skill enablement. Work primarily with Pivotal Platform in a
-    XP and Agile method.
-* Stark & Wayne
-  * Cloud Architect, working with various IaaS and cloud application
-    platforms to build and support large-scale apps.
-  * Consult with various companies to design, build, and productize
-    their cloud.
-* Northrop Grumman Amherst Systems
-  * Collaborated with Amherst Systems for a senior design project,
-    creating a webapp that allows for antenna placement and
-    visualization.
+
+## Projects
+* [AlwaysOnlineRedux](https://github.com/iPwnAge/AlwaysOnlineRedux) - A Bungee proxy
+  plugin that caches user information to cross reference when Mojang authentication
+  servers go down.
+* [AutoDonorStatus](https://github.com/iPwnAge/AutoDonorStatus) - A Spigot/Bukkit plugin
+  that automatically promotes users who donate.
+* [BungeeBetterJoinMessages](https://github.com/iPwnAge/BetterBungeeJoinMessages) - A
+  Bungee proxy plugin that broadcasts join messages to all networked servers when players 
+  login.
+* [BetterFly](https://github.com/iPwnAge/BetterFly) - A Spigot/Bukkit plugin that enables
+  users to fly with persistent state saving, and configuration options.
+* [BungeeAFK](https://github.com/iPwnAge/BungeeAFK) - A Bungee proxy plugin that tracks
+  user activity and broadcasts to all networked servers when players go AFK.
+* [BungeeDeathMessages](https://github.com/iPwnAge/BungeeDeathMessages) - A Bungee proxy
+  plugin that broadcasts player death messages to all networked servers.
+* [Direwolf20 1.7.10 Hotfixes](https://github.com/iPwnAge/Direwolf20-1.7.10-Hotfixes) - A
+  collection of scripts to fix bugs within DW20 that could not be fixed via original
+  source editing (due to licensing, availability, etc).
+* [Plex Tracker](https://github.com/Proplex/plex-tracker) - A Flask webapp that lets Plex
+  server owners track what's hosted, and allow users to request new content. 
+* [SHIELD](https://github.com/starkandwayne/shield) - A data protection solution that
+  schedules automatic backups for distributed, cloud-based services.
+* [SparkBot](https://github.com/Proplex/SparkBot) - A Python-based assistant used with
+  TeamSpeak and IPBoard to announce server status & close off-topic discussions.
+* [Vis](https://github.com/TheVindicators/Vis) - A Flask webapp that was created to aid in
+  visualing antenna placements for Northrop Grumman Amherst Systems.
+* [YOURLS Tox Support](https://github.com/Proplex/YOURLS-Tox-Support) - A YOURLS plugin
+  that allows Tox ID shortening
+
