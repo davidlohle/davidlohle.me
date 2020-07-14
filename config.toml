@@ -5,7 +5,7 @@ theme = "coder"
 
 [params] # theme parameters
     author = "David Lohle"
-    info = "Consultant; Extreme Programming & Infrastructure"
+    info = "Cloud Architect, Programmer, Consultant"
     description = "David Lohle's personal website"
     keywords = "blog,developer,personal"
     
