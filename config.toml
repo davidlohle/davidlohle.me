@@ -17,7 +17,7 @@ theme = "coder"
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/lohlrific/"
+    url = "https://twitter.com/turingcomplyeet/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
